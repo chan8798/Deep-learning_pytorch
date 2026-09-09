@@ -15,8 +15,6 @@ completed during the **Machine Learning II** course in my final semester.
 Implemented and evaluated various machine learning and deep learning
 algorithms, including KNN, SVM, DBSCAN, CNN, and LeNet-5.
 
-## Projects
-
 ### 1. KNN
 - Implemented K-Nearest Neighbors classification.
 - Performed data preprocessing and model evaluation.
