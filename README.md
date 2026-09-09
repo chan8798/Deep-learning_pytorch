@@ -1,10 +1,6 @@
 # Deep learning_pytorch
 ![딥러닝 파이토치](image/images.jpg)
 
-### 석사 CV와 연결한다면
-
-README 첫 부분을 조금 더 **CV용 포트폴리오 느낌**으로 만들 수도 있습니다.
-
 ```markdown
 # Machine Learning II — Course Projects
 
