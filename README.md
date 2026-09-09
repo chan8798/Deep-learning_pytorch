@@ -2,7 +2,7 @@
 ![딥러닝 파이토치](image/images.jpg)
 
 ```markdown
-# Machine Learning II — Course Projects
+# Machine Learning II — Course
 
 This repository contains implementations and experiments
 completed during the **Machine Learning II** course in my final semester.
